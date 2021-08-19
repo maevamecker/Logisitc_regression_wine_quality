@@ -4,3 +4,5 @@
 
 
 Use of logistic regression to predict red wine quality 
+
+Please find the R script and comments [here](https://github.com/maevamecker/Logisitc_regression_wine_quality/blob/master/Script.R)
